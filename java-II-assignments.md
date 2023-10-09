@@ -99,7 +99,7 @@ Person{id=1, firstName='John', lastName='Doe'}
 Process finished with exit code 0
 ```
 
-### Ex. 6 OOP Calclator
+### Ex. 6 OOP Calculator
 Write a Java program that contains a class called `Calculator`.  This program performs the
 functionality found in Java I Ex. 7, with the additional capability:
 - The program displays the history of all the calculations and terminates when "done" is 
